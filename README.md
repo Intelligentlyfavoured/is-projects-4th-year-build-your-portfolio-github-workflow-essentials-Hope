@@ -18,7 +18,7 @@ https://intelligentlyfavoured.github.io/is-projects-4th-year-build-your-portfoli
 
 #### 1. Concept: Branching
 
-**Expectation 👀**: I assumed branching was overkill for a solo project—just something large teams use to avoid stepping on each other’s toes.
+**Expectation 👀**: I assumed branching was overkill for a solo project just something large teams use to avoid stepping on each other’s toes.
 **Reality 😅**: Branching became my safety net! It allowed me to experiment confidently without messing up the main site.
 **Impact 💡**: I used branches like `feature/home-page` and `feature/about-section` to organize work and merge only when I was sure everything looked right.
 
@@ -26,7 +26,7 @@ https://intelligentlyfavoured.github.io/is-projects-4th-year-build-your-portfoli
 
 #### 2. Concept: Commit Messages & Issue References
 
-**Expectation 👀**: I thought commit messages were just a formality—and referencing issues? Probably not needed for a small assignment.
+**Expectation 👀**: I thought commit messages were just a formality and referencing issues? Probably not needed for a small assignment.
 **Reality 😅**: Writing clear, purposeful messages and linking them to issues (e.g., `feat: add intro (#1)`) made my history super readable and auto-closed issues like magic!
 **Impact 💡**: I now see commit messages as part of the documentation. They helped me explain changes, track progress, and stay accountable.
 
@@ -36,7 +36,7 @@ https://intelligentlyfavoured.github.io/is-projects-4th-year-build-your-portfoli
 
 **Expectation 👀**: I figured pull requests (PRs) were only useful when collaborating with others.
 **Reality 😅**: PRs helped me pause and review my own work before merging. They also created a nice record of progress and made it easier to share feedback with my instructor.
-**Impact 💡**: Using PRs gave me confidence that every piece of code was reviewed—even if just by me—and prevented sloppy mistakes from creeping in.
+**Impact 💡**: Using PRs gave me confidence that every piece of code was reviewed—even if just by me and prevented sloppy mistakes from creeping in.
 
 ---
 
