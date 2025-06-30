@@ -5,7 +5,7 @@
 - **Full Name**: Hope Macharia  
 - **Admission Number**: 150326
 - **GitHub Username**: IntelligentlyFavoured  
-- **Email**: hope.macharia@example.com  
+- **Email**: hope.macharia@gmail.com  
 
 ## 2. Deployed Portfolio Link
 
